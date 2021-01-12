@@ -1,0 +1,38 @@
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color:white ;
+    border: 0;
+}
+.categories img{
+    height: 90px;
+
+}
+.carousel-bg{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.button-bg{
+    background-color:#ff3182 ;
+    border-radius: 5px;
+    margin: 0;
+    padding:0.3em;
+    color: white;
+    font-size: 700;
+    border-bottom-style: none;
+}
+.watch-bg-color{
+    background-color: #ffa500;
+    border-radius: 0.7em;
+}
+.bag-bg-color{
+    background-color: #da70d6;
+    border-radius: 0.7em;
+
+}
+.shoes-bg-color{
+    background-color: #0000ff;
+    border-radius: 0.7em;
+
+}
